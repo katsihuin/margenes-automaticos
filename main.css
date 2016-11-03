@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.uno {
+	background-color: white;
+	margin: 10px;
+	width: 200px;
+	border: 15px solid yellow; 	
+	padding: 40px;
+	position: relative;
+
+
+}
+
+.dos {
+	background-color: white;
+	margin: 10px;
+	width: 200px;
+	border: 15px solid yellow; 
+	padding: 40px;
+	position: relative;
+	right: -500px;
+	
+}
+
